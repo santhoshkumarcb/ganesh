@@ -1,0 +1,90 @@
+body{
+     width: 1000px;
+    background-color: rgb(241, 237, 243)
+}
+
+form{
+    height: 600px; 
+    width: 600px;
+    background-color: #fff;
+    margin: auto;
+
+   
+}
+.src_form_btn_warp .search_btn_txt {
+    float: left;
+    padding: 0 0 0 15px;
+   
+}
+.src_form_btn_wrap .search_btn, .astro_set_form_btn_wrap .search_btn {
+    text-decoration: none;
+    color: #fff;
+    background: blue;
+    font: normal 18px/33px arial;
+    float: left;
+    width: 98px;
+    height: 33px;
+    border: 1px solid blue;
+    border-radius: 3px;
+    box-shadow: inset 0 1px 0 blue;
+   
+}
+.src_form_btn_wrap .search_btn {
+    text-decoration: none;
+    color: #fff;
+    background: blue;
+    font: 18px/33px arial;
+    float: left;
+    width: 98px;
+    height: 33px;
+    border: 1px solid blue;
+    border-radius: 3px;
+}
+
+ .form_label {
+
+    color: #b1b3b9;
+    background: 0;
+    display: block;
+    float: left;
+    height: auto;
+    line-height: 35px;
+    width: 153px;
+    margin: 0 0 0 20px;
+}
+.age_st_rng,.age_end_rng,.height_st_rn,.height_end_rng{
+    height: 25px;
+    width: 100px;
+}
+
+.height_st_rn,.height_end_rng{
+    height: 25px;
+    width: 100px;
+}
+.selectbar{
+    height: 25px;
+    width: 220px;
+}
+#src_form_btn_wrap   {
+    text-decoration: none;
+    background: #00bcd5 ;
+  
+    padding: 10px;
+    border-radius: 3px;
+    
+}
+
+
+#rc_form_btn_wrap a:hover {
+    text-decoration: none;
+    background: #4d204d ;
+    
+    width: 100px;
+    height: 30px;
+    border-radius: 3px;
+    
+}
+#ttt  {
+ margin-left: 200px;
+ border-radius: 3px;
+}
